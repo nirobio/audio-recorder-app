@@ -1,0 +1,4 @@
+#Fri Apr 15 12:01:18 BST 2022
+base.0=/home/niro/Documents/git-repo/audio-recorder-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

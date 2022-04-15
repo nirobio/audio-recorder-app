@@ -1,0 +1,2 @@
+com/kineapps/flutterarchive/BuildConfig.java
+ com.kineapps.flutterarchive.BuildConfig
