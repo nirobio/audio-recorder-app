@@ -1,30 +1,15 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <p>🎙️Audio-Recorder-App🎙️</p><br>
+        <p>Audio-Recorder-App</p><br>
     </b>
 </h1>
+
 
 <p align="center">
 This is an audio recorder application developed in Flutter (Dart) which may be deployed to Android.
 </p>
 
 
-
-
-
-## Screenshots
-
-
-
-| Record Screen (Default theme) 	| Record Screen (Theme #2) 	| Record Screen (Theme #3) 	| Record Screen (Theme #4) 	| Record Screen (Theme #5) 	|
-|--------------	|--------------	|--------------	|--------------	|--------------	|
-|  ![Record Screen (Default theme)](screenshots/1.jpg) | ![Record Screen (Theme #2)](screenshots/2.jpg) 	| ![Record Screen (Theme #3)](screenshots/3.jpg)  	| ![Record Screen (Theme #4)](screenshots/4.jpg)   	|  ![Record Screen (Theme #5)](screenshots/5.jpg) 	|
-
-| Recording 	| Tap & Hold Lock 	| Previous Recordings 	| Last Recording 	| Paused 	|
-|--------------	|--------------	|--------------	|--------------	|--------------	|
-|  ![Recording](screenshots/8.jpg) | ![Tap & Hold Lock](screenshots/9.jpg) 	| ![Previous Recordings](screenshots/10.jpg)  	| ![Last Recording](screenshots/11.jpg)   	|  ![Paused](screenshots/12.jpg) 	|
-
-More screenshots are available in the `/screenshots` folder.
 ## Features
 
  - Record high quality audio
